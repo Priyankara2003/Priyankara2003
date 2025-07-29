@@ -5,7 +5,7 @@
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Passionate+Developer+and+Freelancer" alt="Typing SVG" /></a></p>
 
-- 🌱 I’m currently learning **AI and Machine Learning** <img align="right" style="width:28rem; height:14rem" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
+- 🌱 I’m currently learning **AI and Machine Learning** <img align="right" style="width:27rem; height:13rem" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
 
 - 👯 I’m looking to collaborate on **AI/ML Projects**
 
